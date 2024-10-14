@@ -1,3 +1,3 @@
 # Latihan-OCR
 
-Ekstraksi Gambar to Text with Pytesseract
+OCR Ekstraksi Gambar to Text with OpenCV Python dan Tesseract
